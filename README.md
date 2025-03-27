@@ -45,4 +45,5 @@ The program should be executed as:
 - Handle cases where files don’t exist or permissions are denied.
 - Check if commands are invalid or not found.
 
-  
+![Pipex](https://github.com/erwkuvi/pipex/blob/main/assets/pipex_IG.jpg)
+
